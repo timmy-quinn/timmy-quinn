@@ -7,7 +7,6 @@
 - <b> C++ </b>
   - [Sudoku Generator](https://github.com/timmy-quinn/Sudoku-generator.git) 
 
-  - 
 <h3> 🤳 Connect with me:</h3>
 
 
