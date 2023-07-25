@@ -2,7 +2,7 @@
 <br/>
 <h2>👨‍💻 Projects:</h2>
 
-- <b> Altium and PCB Design (AlgoExpert)</b>
+- <b> Altium and PCB Design </b>
   - [Blutooth Watch PCB](https://github.com/timmy-quinn/Bluetooth-Watch-PCB.git)
 - <b> C++ </b>
   - [Sudoku Generator](https://github.com/timmy-quinn/Sudoku-generator.git) 
