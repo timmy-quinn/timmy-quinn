@@ -5,7 +5,9 @@
 - <b> Altium and PCB Design </b>
   - [Blutooth Watch PCB](https://github.com/timmy-quinn/Bluetooth-Watch-PCB.git)
 - <b> C++ </b>
-  - [Sudoku Generator](https://github.com/timmy-quinn/Sudoku-generator.git) 
+  - [Sudoku Generator](https://github.com/timmy-quinn/Sudoku-generator.git)
+- <b> SystemVerilog <b>
+  - [8-bit RISCV Processor](https://github.com/timmy-quinn/8bit_riscv_processor.git)
 
 <h3> 🤳 Connect with me:</h3>
 
