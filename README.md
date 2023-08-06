@@ -7,7 +7,7 @@
 <h1> </h1>
 <h3>👨‍💻 Recent Projects:</h3>
 
-  - [Blutooth Watch PCB](https://github.com/timmy-quinn/Bluetooth-Watch-PCB.git)
+  - [Bluetooth Watch PCB](https://github.com/timmy-quinn/Bluetooth-Watch-PCB.git)
 
   - [Sudoku Generator](https://github.com/timmy-quinn/Sudoku-generator.git)
 
