@@ -2,7 +2,7 @@
 
 <h3></h3>
 <p>
-      Here you can find a selection of my academic and personal projects. I'm currently working on a PID controlled <a href="[https://github.com/timmy-quinn/dancing_links_sudoku_solver_generator]">sudoku puzzle generator</a>! <br>
+      Here you can find a selection of my academic and personal projects. I'm currently working on a <a href="https://github.com/timmy-quinn/dancing_links_sudoku_solver_generator">sudoku puzzle generator</a> using Don Knuth's dancing links algorithm. <br>
 </p>
 <h1> </h1>
 <h3>👨‍💻 Recent Projects:</h3>
