@@ -9,7 +9,7 @@
 
   - [Bluetooth Watch PCB](https://github.com/timmy-quinn/Bluetooth-Watch-PCB.git)
 
-  - [Wall-follower robot](https://github.com/timmy-quinn/wall_follower_robot)
+  - [PID Wall-follower robot](https://github.com/timmy-quinn/wall_follower_robot)
 
   - [8-bit RISCV Processor](https://github.com/timmy-quinn/8bit_riscv_processor.git)
 
