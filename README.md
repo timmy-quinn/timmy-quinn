@@ -1,11 +1,10 @@
-<h1>Hi, I'm Timmy! <br/><a </h1>
+# Hi, I'm Timmy! 
 
-<h3></h3>
-<p>
-      Here you can find a selection of my academic and personal projects. I'm currently working on a <a href="https://github.com/timmy-quinn/dancing_links_sudoku_solver_generator">sudoku puzzle generator</a> which uses Knuth's dancing links algorithm X. <br>
-</p>
-<h1> </h1>
-<h3>👨‍💻 Recent Projects:</h3>
+###  Here you can find a selection of my academic and personal projects. I'm currently working on a [Dancing Links Sudoku Generator](https://github.com/timmy-quinn/dancing_links_sudoku_solver_generator). 
+
+
+
+# 👨‍💻 Recent Projects:
 
   - [Bluetooth Watch PCB](https://github.com/timmy-quinn/Bluetooth-Watch-PCB.git)
 
