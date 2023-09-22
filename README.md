@@ -1,6 +1,6 @@
 # Hi, I'm Timmy! 
 
-Here you can find a selection of my academic and personal projects. I'm currently working on a [Dancing Links Sudoku Generator](https://github.com/timmy-quinn/dancing_links_sudoku_solver_generator). 
+Here you can find a selection of my academic and personal projects. I'm currently working on a [Sudoku Generator](https://github.com/timmy-quinn/dancing_links_sudoku_solver_generator) which makes use of Knuth's dancing link's technique and algorithm X. 
 
 
 
