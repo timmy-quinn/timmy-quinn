@@ -4,6 +4,7 @@ Here you can find a selection of my academic and personal projects.
 
 
 # 👨‍💻 Recent Projects:
+  - [STM32 UART Driver](https://github.com/timmy-quinn/UART_driver_STM32)
 
   - [Python Traffic Notifications Generator](https://github.com/timmy-quinn/Traffic_notifications) 
   
