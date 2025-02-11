@@ -3,14 +3,12 @@
 Here you can find a selection of my academic and personal projects.
 
 
-# 👨‍💻 Recent Projects:
+# 👨‍💻 Project Spotlight:
+  - [The KeyBird](https://github.com/timmy-quinn/hid_keyboard)
+  
   - [STM32 UART Driver](https://github.com/timmy-quinn/UART_driver_STM32)
 
-  - [Python Traffic Notifications Generator](https://github.com/timmy-quinn/Traffic_notifications) 
-  
-  - [Bluetooth Watch PCB](https://github.com/timmy-quinn/Bluetooth-Watch-PCB.git)
-
-  - [PID Wall-follower robot](https://github.com/timmy-quinn/wall_follower_robot)
+  - [Python Traffic Notifications Generator](https://github.com/timmy-quinn/Traffic_notifications)
 
   - [8-bit RISCV Processor](https://github.com/timmy-quinn/8bit_riscv_processor.git)
 
