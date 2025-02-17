@@ -1,6 +1,6 @@
 # Hi, I'm Timmy! 
 
-Here you can find a selection of my academic and personal projects.
+My favorite thing about engineering is learning how things work at their most fundamental level. I've found the best way to do that is by getting my hands dirty, building things and tinkering with projects. So here's where I do that! Here's some of my favorite projects.  
 
 
 # 👨‍💻 Project Spotlight:
