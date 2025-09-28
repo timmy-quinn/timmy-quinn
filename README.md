@@ -18,7 +18,8 @@ I enjoy programming, electronics, and engineering. Here's some of my projects!
 - [LED Watch](https://github.com/timmy-quinn/Bluetooth-Watch-PCB)  
 
 #### Dotfiles 🔴
-- [Workstation setup](https://github.com/timmy-quinn/dotfiles)  
+- [Workstation setup](https://github.com/timmy-quinn/dotfiles)
+- [Neovim](https://github.com/timmy-quinn/NVim-Config)  
 
 #### University Projects 🏫  
 - [Maze Solver](https://github.com/timmy-quinn/maze_solver)  
